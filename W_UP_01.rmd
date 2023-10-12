@@ -67,3 +67,4 @@ it is shown that our P-value is 9.421e-06, which is lower than .05 it shows that
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
+after going through and testing to see if there is a difference between between line and skill.  we result in our p-value to be 9.421e-06 which is less than .05 showing that there is a difference and a relationship between the data.
